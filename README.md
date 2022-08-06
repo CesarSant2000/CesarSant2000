@@ -53,8 +53,9 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cesarsant2000&theme=dark&background=000000)](https://git.io/streak-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user=cesarsant2000
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsant2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 - 🔭 I’m currently working on ...
