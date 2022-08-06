@@ -16,8 +16,10 @@
   </a>
 </div>
 
+<div>
 - 🔭 I’m currently working as Developer at TresCloud - Odoo Gold Partner
 - 🌱 I’m currently learning new technologies and how to empower others.
+ </div>
 <!--
 
 - 🔭 I’m currently working on ...
