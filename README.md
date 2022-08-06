@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://qstech.tips/CesarSant/">
-    <img src="https://img.shields.io/badge/Web-Personal%20Site-red?style=for-the-badge" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Web-Personal%20Site-red?style=for-the-badge&logo=web" alt="Website Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=cesarsant2000&style=flat-square&color=blue" alt=""/>
