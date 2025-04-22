@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/cesarjsant">
+  <a href="https://www.linkedin.com/in/cesarsant2000">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCFsUUobuR5C1TunTwY849vg">
+  <a href="[https://www.youtube.com/channel/UCFsUUobuR5C1TunTwY849vg](https://www.youtube.com/@cesarsant2000)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://qstech.tips/CesarSant/">
+  <a href="https://cesarjsantacruz.com">
     <img src="https://img.shields.io/badge/Web-Personal%20Site-red?style=for-the-badge&logo=web" alt="Website Badge"/>
   </a>
 </div>
